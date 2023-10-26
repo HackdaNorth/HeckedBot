@@ -1,0 +1,20 @@
+{
+  "name": "discorddevelopment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "ajax": "0.0.4",
+    "async": "^3.2.0",
+    "axios": "^0.19.2",
+    "bent": "^7.3.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  }
+}
